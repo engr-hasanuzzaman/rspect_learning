@@ -3,6 +3,7 @@ require_relative '../lib/calculator'
 
 # write test for testing 
 # Calculator calss's add method
+# for class method . and instance method #
 describe 'calculator test' do
   describe '.add' do
     context 'add 2 and 3' do
